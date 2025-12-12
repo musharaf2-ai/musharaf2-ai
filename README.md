@@ -1,4 +1,4 @@
-#👋 Hi there, I'm Musharaf Hussain
+***👋 Hi there, I'm Musharaf Hussain ***
 
 I’m a Full-Stack MERN Developer with a strong focus on building scalable, user-friendly applications. I work with modern web technologies, create clean and maintainable code, and enjoy bringing ideas to life—both in frontend and backend.
 
