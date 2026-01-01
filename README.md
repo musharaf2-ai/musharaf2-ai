@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Musharaf Hussain
 
-I’m a Full-Stack MERN Developer with a strong focus on building scalable, user-friendly applications. I work with modern web technologies, create clean and maintainable code, and enjoy bringing ideas to life—both in frontend and backend.
+I’m a Full-Stack Developer with a strong focus on building scalable, user-friendly applications. I work with modern web technologies, create clean and maintainable code, and enjoy bringing ideas to life—both in frontend and backend.
 
 I’m also developing skills in SQL and Data Analysis, working on real datasets such as job market trend analytics.
 
